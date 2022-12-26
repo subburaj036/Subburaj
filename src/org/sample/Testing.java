@@ -7,8 +7,14 @@ public class Testing {
 		System.out.println(a);
 		System.out.println(b);
 		
+		int c=30;
+		System.out.println(c);
+
 		int d=30;
 		System.out.println(d);
+
+		
+
 	}
 
 }
