@@ -9,6 +9,12 @@ public class Testing {
 		
 		int c=30;
 		System.out.println(c);
+
+		int d=30;
+		System.out.println(d);
+
+		
+
 	}
 
 }
